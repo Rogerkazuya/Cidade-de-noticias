@@ -1,5 +1,5 @@
-#Cidade-De-noticias
-Aprendendo um pouco sobre o Parallax
+# Cidade-De-noticias
+
 <h3> 🛠️: &nbsp;Sobre mim </h3>
 - 🎓 &nbsp; Estudando: **ANALISE E DESENVOLVIMENTO DE SISTEMAS** na Universidade cruzeiro do sul.<br/>
 - 💼 &nbsp; Trabalhando como **ATENDENTE DE SINISTRO** na <a href="(https://www.linkedin.com/company/porto/mycompany/verification/)">Porto Seguro</a>
